@@ -60,9 +60,9 @@
   - 평소에 복용하던 약이 있다면 처음에 낸 후에 정해진 시간마다 받아서 복용할 수 있음
 - 이어플러그
   - 훈련소에서 나눠주는건 총 소리는 다 들리고 분대장 말은 안 들림
-- 위장크림
+~~- 위장크림
   - 마찬가지로 나눠주지만 잘 안 발림
-  - 추천 - [이니스프리 위장크림](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=1731820018&gclid=EAIaIQobChMInOzb6tyz4gIVCWoqCh3qmwpGEAQYASABEgIrHPD_BwE&utm_term=&utm_campaign=%B1%B8%B1%DB%BC%EE%C7%CEPC+%C3%DF%B0%A1%C0%DB%BE%F7&utm_source=%B1%B8%B1%DB_PC_S_%BC%EE%C7%CE&utm_medium=%B0%CB%BB%F6)
+  - 추천 - [이니스프리 위장크림](http://www.11st.co.kr/product/SellerProductDetail.tmall?method=getSellerProductDetail&prdNo=1731820018&gclid=EAIaIQobChMInOzb6tyz4gIVCWoqCh3qmwpGEAQYASABEgIrHPD_BwE&utm_term=&utm_campaign=%B1%B8%B1%DB%BC%EE%C7%CEPC+%C3%DF%B0%A1%C0%DB%BE%F7&utm_source=%B1%B8%B1%DB_PC_S_%BC%EE%C7%CE&utm_medium=%B0%CB%BB%F6)~~
 - 면봉
   - 총기 손질 끝판왕
 - 라이트펜
